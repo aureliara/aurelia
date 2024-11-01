@@ -22,9 +22,13 @@ p{
 	text-align: justify;
 	font-size: 15px;
 	margin-right: 50px;
+	margin-left : 50px;
 	border-style: solid;
 	border-width: 5px;
+	padding: 5px;
 }
+	
+
 
 div{
 	background-color: rgba(300, 300, 300, 0.9);
