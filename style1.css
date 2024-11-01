@@ -3,7 +3,7 @@
 }
 
 body {
-	background-image: url("/aurelia/library4.jpg")
+	background-image: url("/latihan/images/library4.jpg");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -57,5 +57,6 @@ h1 {
 p. one {
 
 }
+
 
 
